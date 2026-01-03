@@ -93,6 +93,7 @@
 ## Cart Test Cases
 
 ### TC-07: View Cart Contents:**
+**Preconditions:**
 - User has added a product to the cart
   
 **Steps:**
@@ -104,6 +105,7 @@
 -----
 
 ### TC-08: Continue shopping from Cart:**
+**Preconditions:**
 - User is on the cart page
   
 **Steps:**
