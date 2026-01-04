@@ -19,9 +19,6 @@ A clear validation message is displayed indicating that the password is incorrec
 ### Actual Result
 The validation message is displayed, but the text overflows the message container and does not fit within the allocated space.
 
-**Screenshot**
-<img width="233" height="164" alt="WrongPasswordBug" src="https://github.com/user-attachments/assets/90c236eb-b641-46c3-a9e0-bc146597229d" />
-
 ### Environment
 - Browser: Google Chrome (latest)
 - Operating System: Windows 11
@@ -29,3 +26,4 @@ The validation message is displayed, but the text overflows the message containe
 
 ### Attachments
 - Screenshot showing text overflow issue
+- <img width="233" height="164" alt="WrongPasswordBug" src="https://github.com/user-attachments/assets/90c236eb-b641-46c3-a9e0-bc146597229d" />
